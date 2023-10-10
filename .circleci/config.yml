@@ -9,6 +9,6 @@ jobs:
     - checkout
     - run:
        name: Build Java App
-        command: |
-          # build command
-          ./gradlew build
+       command: |
+         # build command
+         ./gradlew build

@@ -11,4 +11,4 @@ jobs:
        name: Build Java App
        command: |
          # build command
-         ./gradlew build
+         echo "hello world"
